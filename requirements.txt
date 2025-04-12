@@ -1,1 +1,2 @@
-"flask\nflask-cors" 
+flask
+nflask-cors
