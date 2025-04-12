@@ -1,2 +1,2 @@
 flask
-nflask-cors
+flask-cors
