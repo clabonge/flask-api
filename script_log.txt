@@ -1,0 +1,12 @@
+2025-04-12 18:34:18,301 - INFO - Starting Excel file creation: LockerTowerConfigurator.xlsx
+2025-04-12 18:34:18,302 - INFO - Creating new workbook
+2025-04-12 18:34:18,303 - INFO - Setting up Reference sheet
+2025-04-12 18:34:18,304 - INFO - Setting up Project Configurator sheet
+2025-04-12 18:34:18,305 - INFO - Setting up Summary sheet
+2025-04-12 18:34:18,306 - INFO - Saving to C:\Users\cilabonge\OneDrive\Programming\Python_Scripts\LockerTowerConfigurator.xlsx
+2025-04-12 18:34:18,347 - INFO - Excel file saved successfully: C:\Users\cilabonge\OneDrive\Programming\Python_Scripts\LockerTowerConfigurator.xlsx
+2025-04-12 18:37:44,057 - INFO - Updating Excel file: LockerTowerConfigurator.xlsx
+2025-04-12 18:37:44,058 - INFO - Loading workbook
+2025-04-12 18:37:44,066 - INFO - Creating sheet for Tower 1
+2025-04-12 18:37:44,067 - ERROR - Error updating Excel file: 'NoneType' object has no attribute 'add'
+2025-04-12 18:37:44,068 - ERROR - Script failed: 'NoneType' object has no attribute 'add'
